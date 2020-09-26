@@ -1,4 +1,9 @@
-## Web-Scrapping_IMDB
+# Web-Scrapping_IMDB
+This repository contains Scraping exercises with BeautifulSoup.
 
-**Website:** https://www.imdb.com/
+
+
+
+
+
 
